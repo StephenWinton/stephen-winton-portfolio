@@ -36,7 +36,7 @@ I also introduced a Scrumban-based model in DevOps and DBA environments to impro
 
 Documented outcomes included:
 
-- Substantial reductions in lead-time and cycle-time performance across DevOps, Cloud Engineering, and DBA over the course of the year
+- Substantial reductions in lead time and cycle time across DevOps, Cloud Engineering, and DBA over the course of the year
 - Better alignment between planned work, execution, and leadership reporting
 - Stronger operating maturity within teams that previously lacked consistent delivery structure
 - More consistent use of planning, reporting, and workflow practices across Shared Services
