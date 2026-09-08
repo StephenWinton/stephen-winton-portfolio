@@ -1,4 +1,4 @@
-# Case Study: Enterprise Transformation
+# Case Study: Enterprise Delivery Transformation
 
 ## Improving Planning, Delivery Discipline, and Operating Visibility Across Shared Services
 
@@ -14,7 +14,7 @@ The work centered on four priorities:
 
 1. **Planning discipline** — stronger quarterly planning, backlog readiness, and capacity alignment
 2. **Delivery visibility** — standardized metrics, dashboards, and executive reporting
-3. **Operating consistency** — reusable Jira, Confluence, workflow, and governance patterns
+3. **Operating consistency** — reusable Jira, Confluence, workflow, and operating patterns
 4. **Team effectiveness** — coaching, facilitation, and targeted process improvement where delivery friction was highest
 
 ### Actions Taken
@@ -30,24 +30,22 @@ I introduced and supported a series of improvements across UI/UX, DevOps, Cloud 
 - Process improvements tailored to teams with different operating needs
 - More disciplined use of retrospective findings and performance data to drive change
 
-For selected teams, I introduced a Scrumban-oriented model to improve responsiveness while maintaining longer-term roadmap alignment.
+I also introduced a Scrumban-based model in DevOps and DBA environments to improve responsiveness while maintaining alignment to longer-term roadmap work.
 
 ### Outcomes
 
-Selected measurable results included:
+Documented outcomes included:
 
-- **23% increase in sprint velocity within six months**
-- Reduction in project cycle time from **12 weeks to 7.5 weeks**
-- **19% improvement in on-time feature delivery**
-- Significant improvements in lead-time and cycle-time performance across infrastructure-oriented teams
+- Substantial reductions in lead-time and cycle-time performance across DevOps, Cloud Engineering, and DBA over the course of the year
 - Better alignment between planned work, execution, and leadership reporting
 - Stronger operating maturity within teams that previously lacked consistent delivery structure
+- More consistent use of planning, reporting, and workflow practices across Shared Services
 
 ### What This Demonstrates
 
 This case study reflects strengths in:
 
-- Enterprise transformation
+- Enterprise delivery transformation
 - Operating-model design
 - PMO modernization
 - Cross-functional leadership
