@@ -7,7 +7,7 @@ I work at the intersection of **enterprise transformation, strategic program lea
 
 ---
 
-## Start Here
+## Start Here: Selected Case Studies
 
 ### 🚀 [Enterprise AI Enablement](case-studies/enterprise-ai-enablement.md)
 **From experimentation to an adopted operating capability**  
@@ -21,7 +21,17 @@ How I strengthened planning, delivery discipline, visibility, operating cadence,
 **Leading complex technology programs from strategy through execution**  
 Examples spanning distributed delivery, AWS data migration, executive reporting, risk management, program governance, and multi-team coordination.
 
-> **Also see:** [Leadership Profile](about/leadership-profile.md) for a concise overview of my leadership approach, career positioning, and the types of problems I am most effective at solving.
+---
+
+## Leadership Resources
+
+These pages provide a faster view of how I lead, the scale of work I have managed, and the framework I use to approach transformation.
+
+| Resource | What It Shows |
+|---|---|
+| **[Executive Leadership Profile](about/leadership-profile.md)** | My leadership positioning, operating style, areas of strength, and defensible career proof points |
+| **[Career Impact Snapshot](impact/career-impact-snapshot.md)** | A concise evidence-based view of leadership scope, career progression, and recurring impact themes |
+| **[Transformation Leadership Framework](frameworks/transformation-leadership-framework.md)** | My repeatable approach for moving from operating friction to visible, measurable, scalable improvement |
 
 ---
 
@@ -56,7 +66,7 @@ Examples spanning distributed delivery, AWS data migration, executive reporting,
 
 **15+ years** leading complex technology programs and cross-functional teams across SaaS, enterprise technology, infrastructure, cloud, support operations, and PMO environments.
 
-**Demonstrated operating impact** including improved delivery predictability, reduced cycle time, stronger planning discipline, greater reporting consistency, and better stakeholder visibility.
+**Demonstrated operating impact** including stronger planning discipline, improved delivery visibility, more consistent reporting, reduced operational friction, and scalable ways of working.
 
 **Applied AI leadership** focused on practical enterprise adoption, workflow automation, decision support, and operating efficiency rather than AI for its own sake.
 
@@ -75,6 +85,8 @@ AI is one of the tools I use to improve execution. I view it as an **enabler of 
 ## Portfolio Notes
 
 The materials in this repository are intentionally **sanitized for external use**. They focus on leadership approach, operating-model design, transformation outcomes, and transferable lessons while excluding confidential company information, customer data, internal URLs, credentials, proprietary source code, and sensitive operational details.
+
+A role-specific resume is available upon request; resumes are tailored to the requirements and priorities of each opportunity.
 
 ---
 
