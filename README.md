@@ -13,13 +13,13 @@ I work at the intersection of **enterprise transformation, strategic program lea
 **From experimentation to an adopted operating capability**  
 How I translated recurring PMO and delivery friction into reusable AI-enabled workflows, reporting capabilities, onboarding, and scalable team adoption.
 
-### 🔄 [Enterprise Transformation](case-studies/enterprise-transformation.md)
+### 🔄 [Enterprise Delivery Transformation](case-studies/enterprise-transformation.md)
 **Improving execution across complex shared-services environments**  
 How I strengthened planning, delivery discipline, visibility, operating cadence, and cross-functional alignment across multiple technical teams.
 
 ### 🎯 [Strategic Program Leadership](case-studies/strategic-program-leadership.md)
 **Leading complex technology programs from strategy through execution**  
-Examples spanning distributed delivery, cloud migration, executive reporting, risk management, program governance, and multi-team coordination.
+Examples spanning distributed delivery, AWS data migration, executive reporting, risk management, program governance, and multi-team coordination.
 
 > **Also see:** [Leadership Profile](about/leadership-profile.md) for a concise overview of my leadership approach, career positioning, and the types of problems I am most effective at solving.
 
