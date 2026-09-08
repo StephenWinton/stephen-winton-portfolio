@@ -25,13 +25,14 @@ Examples spanning distributed delivery, AWS data migration, executive reporting,
 
 ## Leadership Resources
 
-These pages provide a faster view of how I lead, the scale of work I have managed, and the framework I use to approach transformation.
+These pages provide a faster view of how I lead, the scale of work I have managed, the framework I use to approach transformation, and third-party validation from formal performance feedback.
 
 | Resource | What It Shows |
 |---|---|
 | **[Executive Leadership Profile](about/leadership-profile.md)** | My leadership positioning, operating style, areas of strength, and defensible career proof points |
 | **[Career Impact Snapshot](impact/career-impact-snapshot.md)** | A concise evidence-based view of leadership scope, career progression, and recurring impact themes |
 | **[Transformation Leadership Framework](frameworks/transformation-leadership-framework.md)** | My repeatable approach for moving from operating friction to visible, measurable, scalable improvement |
+| **[Recognition & Leadership Feedback](recognition/leadership-feedback.md)** | Selected anonymized excerpts from formal performance feedback highlighting innovation, AI enablement, operating impact, and force-multiplier leadership |
 
 ---
 
