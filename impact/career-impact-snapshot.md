@@ -26,14 +26,15 @@ This page is a concise, evidence-based view of the scale, complexity, and leader
 
 ```mermaid
 flowchart LR
-    A[Project & Systems Leadership] --> B[Senior Project Management]
-    B --> C[Delivery Leadership]
-    C --> D[Development Support Management]
-    D --> E[Program Management]
-    E --> F[Director-Level Transformation & Delivery Leadership]
+    A[Software Engineer] --> B[Project & Systems Leadership]
+    B --> C[Senior Project Management]
+    C --> D[Delivery Leadership]
+    D --> E[Development Support Management]
+    E --> F[Program Management]
+    F --> G[Director-Level Transformation & Delivery Leadership]
 ```
 
-My career has progressed from systems analysis and project management into senior project leadership, delivery management, support management, program management, and Director-level transformation and operating leadership.
+My career began in software engineering and progressed through systems analysis and project management into senior project leadership, delivery management, support management, program management, and Director-level transformation and operating leadership.
 
 ---
 
