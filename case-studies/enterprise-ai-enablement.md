@@ -40,7 +40,7 @@ I also led the adoption model around the platform, including onboarding, trainin
 
 ### Scale
 
-The solution expanded from an individual innovation into an adopted PMO capability supporting a **15-person PMO team** and multiple product-engineering and shared-services use cases.
+The solution expanded from an individual innovation into an adopted PMO capability **for use across a 15-person PMO organization** and multiple product-engineering and shared-services use cases.
 
 The underlying capability library grew to include dozens of reusable workflows, skills, prompts, and team-specific configurations, creating a repeatable framework rather than a collection of isolated automations.
 

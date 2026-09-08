@@ -6,7 +6,7 @@
 
 Large technology programs require more than schedule management. They depend on clear priorities, integrated planning, risk management, executive visibility, and the ability to coordinate distributed technical teams over long time horizons.
 
-Across multiple roles, I have led complex programs spanning software development, cloud migration, support operations, testing, and enterprise delivery.
+Across multiple roles, I have led complex programs spanning software development, cloud and data migration, support operations, testing, and enterprise delivery.
 
 ### Leadership Scope
 
@@ -23,9 +23,9 @@ My program leadership experience has included:
 
 ### Selected Examples
 
-#### Multi-Year Cloud Migration
+#### Multi-Year AWS Data Migration
 
-As a Lead Delivery Manager, I supported and led delivery across multiple technology teams and helped drive a successful multi-year migration from a traditional data center environment to AWS.
+As a Lead Delivery Manager, I managed Agile delivery across three technology teams and contributed to the successful completion of a multi-year data migration from a data-center environment to AWS.
 
 The work required sustained coordination across teams, clear tracking of dependencies, program-level reporting, and continuous adaptation as technical and business priorities evolved.
 
@@ -33,7 +33,7 @@ The work required sustained coordination across teams, clear tracking of depende
 
 As a Senior Project Manager, I managed groups of up to **25 testers and developers** distributed across Houston, Philadelphia, St. Louis, and India.
 
-I led integrated schedules, scope and budget tracking, risk escalation, release coordination, and project documentation for complex software initiatives.
+I led integrated schedules, scope and budget tracking, risk escalation, release coordination, and project documentation for complex software initiatives. One documented outcome was the successful delivery of a testing and administration product for healthcare educational institutions **on time, within budget, and within scope**.
 
 #### Shared Services Program Leadership
 
@@ -41,14 +41,13 @@ In later roles, I led and supported multiple shared-services teams simultaneousl
 
 ### Outcomes
 
-Across these environments, my leadership has contributed to:
+Across these environments, documented results included:
 
-- Successful delivery of complex, multi-year technology initiatives
-- Improved predictability and visibility across distributed teams
-- Stronger alignment between technical execution and business priorities
-- More consistent executive reporting and stakeholder communication
-- Better identification and management of risks and dependencies
-- Reusable delivery and program-management practices that scaled beyond a single team
+- Successful completion of a multi-year data migration from a data-center environment to AWS
+- On-time, within-budget, and within-scope delivery of a testing and administration product for healthcare educational institutions
+- Program-level dashboards and reporting that improved stakeholder visibility
+- Coordination of distributed development and testing teams across multiple U.S. locations and India
+- Ongoing oversight of risks, issues, dependencies, schedules, scope, budgets, and releases across complex technology initiatives
 
 ### What This Demonstrates
 
